@@ -5,4 +5,4 @@ Discord Enumeration Bot (Beta)
 `$Scan <ip> <port> <protocol>`
 `$Curl <link>`
 
-protocoles: `tcp/udp`
+### protocoles: `tcp/udp`
