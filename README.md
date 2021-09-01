@@ -5,6 +5,8 @@ Discord Enumeration Bot (Beta)
 `discord, ipaddress, socket,requests, json, os`
 
 ## Commands:
+`$Hello`
+
 `$Scan <ip> <port> <protocol>`
 
 `$Curl <link>`
