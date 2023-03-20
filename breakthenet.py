@@ -80,7 +80,7 @@ async def on_message(message):
 
 
     if message.content.startswith('$Hello'):
-        await message.channel.send('The Fuck you want?')
+        await message.channel.send('?')
 
     if msg.startswith('$Hack'):
         a = msg.split(" ")
